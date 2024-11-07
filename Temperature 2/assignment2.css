@@ -1,0 +1,17 @@
+button{
+    background-color: blanchedalmond;
+    border-radius: 10px;
+
+}
+
+/* h1 */
+h1 {
+    text-align: center;
+}
+
+/* body */
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
