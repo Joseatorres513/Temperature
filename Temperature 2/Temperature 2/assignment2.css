@@ -1,0 +1,24 @@
+button{
+    background-color: green;
+    border-radius: 10px;
+    font: 300px;
+
+}
+
+/* h1 */
+h1 {
+    text-align: center;
+}
+
+/* body */
+body {
+    background-color: blanchedalmond;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* sunny.jpg */
+sunny.jpg {
+
+}
